@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//\ i18n-res/global.properties=UTF-8
+encoding//\ i18n-res/global_vi.properties=UTF-8
+encoding//\ i18n-res/home.about_vi.properties=UTF-8
+encoding//\ i18n-res/home.index_vi.properties=UTF-8
+encoding//WebContent/WEB-INF/views/index.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/lab1/bai2.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/lab2/success2.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/lab7/lab7bai1.jsp=UTF-8
+encoding//src/controller/lab4Controller.java=UTF-8
+encoding//src/controller/lab5Controller.java=UTF-8
+encoding//src/controller/lab6Controller.java=UTF-8
+encoding//src/controller/lab8Controller.java=UTF-8
+encoding//src/controller/lb2StudentMgrController.java=UTF-8
+encoding//src/controller/showController.java=UTF-8
+encoding//src/model/Users.java=UTF-8
+encoding//src/model/modelStudent.java=UTF-8
